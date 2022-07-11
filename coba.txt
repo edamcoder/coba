@@ -4,5 +4,4 @@ Planning Edam => 11 Juli 2022
 - Belajar React Native
 Selain Coding :
 - bikin usaha sosro
-- bikin usaha lele
 - usaha grosir
