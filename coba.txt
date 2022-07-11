@@ -2,3 +2,7 @@ Planning Edam => 11 Juli 2022
 - Membuat aplikasi web dengan Laravel 8 untuk lemdik avsec
 - Belajar React JS
 - Belajar React Native
+Selain Coding :
+- bikin usaha sosro
+- bikin usaha lele
+- usaha grosir
