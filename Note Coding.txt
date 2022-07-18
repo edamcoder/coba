@@ -1,3 +1,4 @@
+Analisis Sistem Informasi Akademik Sekolah ::
 Authentifikasi Pada Laravel 8 : 
 proses autentikasi yang dapat digunakan pada laravel 8 yang dinamai Laravel Jetstream : cara mudah untuk membuat fungsi2 berikut dibawah ini
 - Login
@@ -9,3 +10,7 @@ proses autentikasi yang dapat digunakan pada laravel 8 yang dinamai Laravel Jets
 - Management Session
 ** Laravel Jetstream ada 2 jenis authentifikasi => 1. Livewire/menggunakan engine Blade dan 2. Inertia/komponen Vue Template
 cara install dan menggunakan Jetstream Livewire ==> https://www.contohapps.com/2020/12/membuat-loginregister-laravel-8.html
+
+Cara Kerja Auth::Routes();
+https://sekolahkoding.com/forum/bagaimana-cara-kerja-authroutes-1534167893
+https://fadlur.com/kelas/membangun-toko-online-menggunakan-laravel/tutorial/authentication-laravel
